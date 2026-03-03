@@ -172,7 +172,7 @@
   },
   "devDependencies": {
     "@jedmao/location": "^3.0.0",
-    "@next/bundle-analyzer": "15.5.10",
+    "@next/bundle-analyzer": "16.1.6",
     "@playwright/test": "^1.57.0",
     "@repo/eslint-config": "workspace:*",
     "@repo/typescript-config": "workspace:*",
